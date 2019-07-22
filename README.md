@@ -1,3 +1,8 @@
+Update 22/07/2019:
+This code is a completly unstructured mess. I do NOT reccommend that you use this as it was intended to be used. However I have left in some barebones code that was used. If you are trying to do something simular I reccommend that you take some of the barebone code as a starting point.
+
+
+
 Hi
 
 This is my program that makes your raspberry pi into a games console that run scratch games.
